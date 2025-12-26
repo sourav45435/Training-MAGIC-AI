@@ -1,0 +1,6 @@
+MAGIC/
+├── train_magic_base.py        ✅ (training)
+├── eval_magic_base.py         ✅ (benchmarks)
+├── save_magic_checkpoint.py   ✅ (explicit checkpoint writer)
+├── load_magic_checkpoint.py   ✅ (explicit loader)
+├── magic_benchmark.py         ✅ (model comparison)

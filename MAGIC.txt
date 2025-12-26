@@ -1,0 +1,15 @@
+MAGIC/
+├── modeling_magic.py
+├── magic_trainer.py
+├── magic_chat.py
+├── magic_config.yaml
+├── Magic-Base-Data.json
+├── train_magic_base.py   ← training script
+├── checkpoints/
+│   └── magic_base/
+│       ├── model.pt
+│       ├── input_proj.pt
+│       ├── lm_head.pt
+│       ├── scaler.joblib
+│       ├── label_encoder.joblib
+│       └── preprocessors.joblib

@@ -1,0 +1,7 @@
+MAGIC_CFG_PATH = "magic_config.yaml"
+MODEL_PATH = "checkpoints/magic_base/model.pt"
+INPUT_PROJ_PATH = "checkpoints/magic_base/input_proj.pt"
+LM_HEAD_PATH = "checkpoints/magic_base/lm_head.pt"
+SCALER_PATH = "checkpoints/magic_base/scaler.joblib"
+LABEL_ENCODER_PATH = "checkpoints/magic_base/label_encoder.joblib"
+PREPROCESSORS_PATH = "checkpoints/magic_base/preprocessors.joblib"

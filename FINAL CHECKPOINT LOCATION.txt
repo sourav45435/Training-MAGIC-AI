@@ -1,0 +1,7 @@
+checkpoints/magic_base/
+├── model.pt
+├── input_proj.pt
+├── lm_head.pt
+├── scaler.joblib
+├── label_encoder.joblib
+├── preprocessors.joblib
